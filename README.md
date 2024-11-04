@@ -1,1 +1,1 @@
-# ANOVA-Functions-and-Residual-Analysis
+# ANOVA Functions and Residual Analysis
